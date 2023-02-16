@@ -11,7 +11,7 @@ import org.springframework.web.servlet.view.JstlView;
 
 @EnableWebMvc
 @Configuration
-@ComponentScan({ "com.otot.mikvah" })
+@ComponentScan({ "com.otot.mikdah" })
 public class SpringWebConfig implements WebMvcConfigurer {
 
     @Override
